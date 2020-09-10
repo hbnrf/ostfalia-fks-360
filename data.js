@@ -134,13 +134,13 @@ var APP_DATA = {
           "yaw": -0.14633090260027615,
           "pitch": 0.03718257329962782,
           "title": "Orientierungshilfe<br>",
-          "text": "<div>Hier geht es zum Online-Raumplan: <a href=\"https://www.ostfalia.de/cms/de/s/.content/Dokumente-fuer-Fakultaet-Soziale-Arbeit/3a-Raumplan-3-6-WS-2018-2019.pdf\" target=\"_blank\">hier klicken</a></div>"
+          "text": "<div>Hier geht es zum Online-Raumplan: <a  class=\"infolink\" href=\"https://www.ostfalia.de/cms/de/s/.content/Dokumente-fuer-Fakultaet-Soziale-Arbeit/3a-Raumplan-3-6-WS-2018-2019.pdf\" target=\"_blank\">hier klicken</a></div>"
         },
         {
           "yaw": 3.098535780699855,
           "pitch": 0.06758513239906527,
           "title": "Kopierraum für Studierende<br>",
-          "text": "<div>Detaillierte Anleitungen zum Thema Drucken und Kopieren finden Sie im Wiki des Rechenzentrums: <a href=\"https://wiki.sonia.de/pages/viewpage.action?pageId=49840816\" target=\"_blank\">hier klicken</a></div>"
+          "text": "<div>Detaillierte Anleitungen zum Thema Drucken und Kopieren finden Sie im Wiki des Rechenzentrums: <a  class=\"infolink\" href=\"https://wiki.sonia.de/pages/viewpage.action?pageId=49840816\" target=\"_blank\">hier klicken</a></div>"
         },
         {
           "yaw": 0.9523253157835683,
@@ -272,7 +272,7 @@ var APP_DATA = {
           "yaw": -2.5116706906341992,
           "pitch": 0.013472490228775058,
           "title": "Büro der technischen Medien<br>",
-          "text": "<div>Technische Unterstützung und Ausleihe von Medientechnik.</div><div>Ansprechpartner: Herr Pein <a href=\"https://www.ostfalia.de/cms/de/s/fakultaet/verwaltung/\" target=\"_blank\">hier klicken</a></div>"
+          "text": "<div>Technische Unterstützung und Ausleihe von Medientechnik.</div><div>Ansprechpartner: Herr Pein <a  class=\"infolink\" href=\"https://www.ostfalia.de/cms/de/s/fakultaet/verwaltung/\" target=\"_blank\">hier klicken</a></div>"
         }
       ]
     },
@@ -317,7 +317,7 @@ var APP_DATA = {
           "yaw": 0.23234647247446283,
           "pitch": 0.07012686563898285,
           "title": "Lerncoaching<br>",
-          "text": "<div>Frau Quiring <a href=\"https://www.ostfalia.de/cms/de/s/studium/lerncoaching/\" target=\"_blank\">hier klicken</a></div>"
+          "text": "<div>Frau Quiring <a  class=\"infolink\" href=\"https://www.ostfalia.de/cms/de/s/studium/lerncoaching/\" target=\"_blank\">hier klicken</a></div>"
         }
       ]
     },
@@ -595,7 +595,7 @@ var APP_DATA = {
           "yaw": 0.10399130039187199,
           "pitch": 0.01221522242678219,
           "title": "Haupteingang Bibliothek<br>",
-          "text": "<div>Weitere Informationen und Hinweise finden Sie hier: <a href=\"https://www.ostfalia.de/cms/de/bib/\" target=\"_blank\">hier klicken</a></div>"
+          "text": "<div>Weitere Informationen und Hinweise finden Sie hier: <a  class=\"infolink\" href=\"https://www.ostfalia.de/cms/de/bib/\" target=\"_blank\">hier klicken</a></div>"
         }
       ]
     },
@@ -897,37 +897,37 @@ var APP_DATA = {
           "yaw": -0.011635158824548242,
           "pitch": -0.2013145727229464,
           "title": "Immer informiert<br>",
-          "text": "<div>Aktuelle Informationen zum Bachelor- und Masterstudiengang finden Sie hier und auf der Fakultätswebseite: <a href=\"https://www.ostfalia.de/cms/de/s/studium/\" target=\"_blank\">hier klicken</a></div>"
+          "text": "<div>Aktuelle Informationen zum Bachelor- und Masterstudiengang finden Sie hier und auf der Fakultätswebseite: <a  class=\"infolink\" href=\"https://www.ostfalia.de/cms/de/s/studium/\" target=\"_blank\">hier klicken</a></div>"
         },
         {
           "yaw": 1.123599584774178,
           "pitch": 0.0886298047626255,
           "title": "Praxisamt, Frau Schneider<br>",
-          "text": "<a href=\"https://www.ostfalia.de/cms/de/s/fakultaet/pruefungsangelegenheiten/\" target=\"_blank\">hier klicken</a>"
+          "text": "<a  class=\"infolink\" href=\"https://www.ostfalia.de/cms/de/s/fakultaet/pruefungsangelegenheiten/\" target=\"_blank\">hier klicken</a>"
         },
         {
           "yaw": 1.3791501845956713,
           "pitch": 0.0649431992449685,
           "title": "Dipl. Soz. Christine Jahn, Dekanatsreferentin<br>",
-          "text": "<a href=\"https://www.ostfalia.de/cms/de/pws/jahn/\" target=\"_blank\">hier klicken</a>"
+          "text": "<a  class=\"infolink\" href=\"https://www.ostfalia.de/cms/de/pws/jahn/\" target=\"_blank\">hier klicken</a>"
         },
         {
           "yaw": -1.4743970967482465,
           "pitch": 0.01493936098912485,
           "title": "Praxisamt, Frau Meyer und Frau Denecke<br>",
-          "text": "<a href=\"https://www.ostfalia.de/cms/de/s/fakultaet/praxisamt/\" target=\"_blank\">hier klicken</a>"
+          "text": "<a  class=\"infolink\" href=\"https://www.ostfalia.de/cms/de/s/fakultaet/praxisamt/\" target=\"_blank\">hier klicken</a>"
         },
         {
           "yaw": -1.1481107355533968,
           "pitch": 0.08932545246521251,
           "title": "Sekretariat, Dekanat<br>",
-          "text": "<div>Frau Hinrichs, Frau Specht <a href=\"https://www.ostfalia.de/cms/de/s/fakultaet/dekanat/\" target=\"_blank\">hier klicken</a></div>"
+          "text": "<div>Frau Hinrichs, Frau Specht <a  class=\"infolink\" href=\"https://www.ostfalia.de/cms/de/s/fakultaet/dekanat/\" target=\"_blank\">hier klicken</a></div>"
         },
         {
           "yaw": -1.6566400503139072,
           "pitch": 0.01738189805968382,
           "title": "Büro des Dekans<br>",
-          "text": "<div>Prof. Dr. Kortendieck <a href=\"https://www.ostfalia.de/cms/de/s/fakultaet/dekanat/\" target=\"_blank\">hier klicken</a></div>"
+          "text": "<div>Prof. Dr. Kortendieck <a  class=\"infolink\" href=\"https://www.ostfalia.de/cms/de/s/fakultaet/dekanat/\" target=\"_blank\">hier klicken</a></div>"
         }
       ]
     },
@@ -1270,7 +1270,7 @@ var APP_DATA = {
           "yaw": -2.858200653717221,
           "pitch": -0.09151146146237465,
           "title": "Poolräume<br>",
-          "text": "<div>PC-Räume für Seminare, sowie zum freien Arbeiten für Studierende. Weitere Informationen und Hinweise finden Sie hier: <br><a href=\"https://www.ostfalia.de/cms/de/rz/oeffnungszeiten/pool-und-peripherieraeume/\" target=\"_blank\">hier klicken</a></div>"
+          "text": "<div>PC-Räume für Seminare, sowie zum freien Arbeiten für Studierende. Weitere Informationen und Hinweise finden Sie hier: <br><a  class=\"infolink\" href=\"https://www.ostfalia.de/cms/de/rz/oeffnungszeiten/pool-und-peripherieraeume/\" target=\"_blank\">hier klicken</a></div>"
         }
       ]
     },
@@ -1333,7 +1333,7 @@ var APP_DATA = {
           "yaw": -2.663817095576835,
           "pitch": 0.049420154227677315,
           "title": "Büro Fachschaftsrat (FARA)<br>",
-          "text": "<div>Die studentische Vertretung der Fakultät Soziale Arbeit: <a href=\"https://www.ostfalia.de/cms/de/s/fakultaet/FaRa-Fachschaftsrat/\" target=\"_blank\">hier klicken</a></div>"
+          "text": "<div>Die studentische Vertretung der Fakultät Soziale Arbeit: <a  class=\"infolink\" href=\"https://www.ostfalia.de/cms/de/s/fakultaet/FaRa-Fachschaftsrat/\" target=\"_blank\">hier klicken</a></div>"
         }
       ]
     },

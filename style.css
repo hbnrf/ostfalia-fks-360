@@ -33,6 +33,16 @@ a, a:hover, a:active, a:visited {
   color: inherit;
 }
 
+a.infolink {
+  text-decoration: none;
+  color: blue;
+}
+
+a.infolink:hover, a.infolink:visited, a.infolink:active {
+  text-decoration: underline;
+  color: red;
+}
+
 #pano {
   position: absolute;
   top: 0;
